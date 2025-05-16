@@ -24,8 +24,6 @@
 ### ⚡ Fun fact:  
 I love exploring emerging tech and automating everything possible! 🚀  
 
-Feel free to tweak this to match your style! Would you like to add any more personal details? 😊✨
-
 <!---
 Dhineia/Dhineia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
