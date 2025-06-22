@@ -1,6 +1,8 @@
 ### 👋 Hi, I’m @Dhineia  
 🚀 **Aspiring DevOps Engineer passionate about automation and cloud technologies.**  
 
+console.log("Now deploying Geraldine v2.0... Please wait while brilliance loads.");
+
 ### 👀 I’m interested in...  
 - Infrastructure as Code (Terraform, Ansible)  
 - CI/CD automation (ArgoCD, Jenkins)  
